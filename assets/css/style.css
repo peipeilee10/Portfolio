@@ -542,6 +542,11 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
+
+.card img{
+  height: 222px;
+  object-fit: cover;
+}
 /* 
 #portfolio .card {
   height: 450px;
